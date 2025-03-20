@@ -12,4 +12,4 @@
 
 ## My Resume
 
-* [ :open_file_folder: RESUME pdf ]()
+* [ :open_file_folder: RESUME pdf ](./wyatt,logan_resume.pdf)
