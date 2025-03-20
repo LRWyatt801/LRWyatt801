@@ -1,8 +1,7 @@
 # Hi there, I'm Logan 👋
 [![LinkedIn - Logan Wyatt](https://img.shields.io/badge/LinkedIn_--_Logan_Wyatt-0072b1?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flogan-wyatt%2F)
 ](https://www.linkedin.com/in/logan-wyatt/)
-[![Static Badge](https://img.shields.io/badge/Portfolio-2ECC71?link=https%3A%2F%2Flrwyatt801.github.io%2F)
-]
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ECC71?link=https%3A%2F%2Flrwyatt801.github.io%2F)](https://lrwyatt801.github.io/)
 
 <!--
 **LRWyatt801/LRWyatt801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
