@@ -10,7 +10,7 @@
 - :computer: I'm a low level engineer
 - :seedling: I’m currently learning Advanced Algorithms in C/C++ at Atlas School
 - :dancers: I’m looking to collaborate on any project
-- :mailbox_with_no_mail: How to reach me: <loganwyatt1995@gmail.com>
+- :mailbox_with_no_mail: How to reach me: <loganwyatt801@gmail.com>
 
 ## My Resume
 
