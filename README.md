@@ -6,9 +6,9 @@
 **LRWyatt801/LRWyatt801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Advanced Algorithms in C/C++
-- � I’m looking to collaborate on any project
-- �📫 How to reach me: <loganwyatt1995@gmail.com>
+- :seedling: I’m currently learning Advanced Algorithms in C/C++
+- :dancers: I’m looking to collaborate on any project
+- :mailbox_with_no_mail: How to reach me: <loganwyatt1995@gmail.com>
 
 ## My Resume
 
